@@ -65,15 +65,14 @@ I'm **Kishan**, a creative technologist from **IIT Roorkee**, blending logic wit
 ## 🏆 Achievements
 
 - 🥇 **1st Place** – TinkerQuest’24, Hackathon by Tinkering Lab
-- 🥈 **2nd Place** – HexCode 1.0, Designathon by Design Studio IITR
-- 👨‍🏫 Mentored 50+ juniors on full-stack and UI design best practices
+- 👨‍🏫 Mentored 50+ 50+student for JEE MAIN and Advanced
 
 ---
 
 ## 🧩 My Stack
 
 ### 💻 Languages
-`C++` · `Python` · `JavaScript` · `Solidity` · `Go` · `Java`
+`C++` · `Python` · `JavaScript` · `Solidity` · `Rust` · `Java`
 
 ### 🧠 Frameworks / Libraries
 `React.js` · `Node.js` · `TailwindCSS` · `Express.js` · `Numpy` · `Pandas` · `Matplotlib`
