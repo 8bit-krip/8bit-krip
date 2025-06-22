@@ -11,7 +11,7 @@
 
 ## 🧠 Who Am I?
 
-I'm **Kishan**, a creative technologist from **IIT Roorkee**, blending logic with art.
+I'm **Kishan**, a final-year undergraduate student at IIT Roorkee.
 
 - 🔗 **Web3 Developer**: Solidity, Smart Contracts, DeFi Systems
 - 💡 **UI/UX Designer**: Clean, usable, delightful digital products
@@ -108,7 +108,6 @@ I'm **Kishan**, a creative technologist from **IIT Roorkee**, blending logic wit
 
 - 🧩 I can sketch interfaces faster than I write "console.log".
 - 📐 I treat Figma like VS Code and VS Code like a game.
-- 🌕 I’m working on blending Indian spirituality with modern tech (Ramvani, Vedic UX).
 - 🧠 My GitHub handle is inspired by pixel art + memory — 8bit-krip.
 
 ---
