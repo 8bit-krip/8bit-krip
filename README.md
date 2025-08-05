@@ -11,14 +11,13 @@
 
 ## 🧠 Who Am I?
 
-I'm **Kishan**, a final-year undergraduate student at IIT Roorkee.
+<div align="center">
 
-- 🔗 **Web3 Developer**: Solidity, Smart Contracts, DeFi Systems
-- 💡 **UI/UX Designer**: Clean, usable, delightful digital products
-- 💻 **Full Stack Dev**: Frontend wizard & backend builder
-- 🎯 **Focused On**: Performance, accessibility, and user emotion
+I'm a final-year student at **IIT Roorkee**, crafting seamless digital experiences from idea to deployment. As a **Full-Stack & Web3 Developer**, I blend the art of **UI/UX Design** with the logic of robust backends. My goal is to build things that are not just functional, but also delightful and intuitive for humans.
 
 > *"Design for humans, code for machines, build for the future."*
+
+</div>
 
 ---
 
@@ -71,17 +70,30 @@ I'm **Kishan**, a final-year undergraduate student at IIT Roorkee.
 
 ## 🧩 My Stack
 
-### 💻 Languages
-`C++` · `Python` · `JavaScript` · `Solidity` · `Rust` · `Java`
+#### 🧠 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,solidity,python,cpp,rust,java&theme=dark" />
+</p>
 
-### 🧠 Frameworks / Libraries
-`React.js` · `Node.js` · `TailwindCSS` · `Express.js` · `Numpy` · `Pandas` · `Matplotlib`
+#### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
+</p>
 
-### 🎨 Design & Tools
-`Figma` · `Illustrator` · `Blender` · `Adobe XD` · `Framer`
+#### 🛠 Backend & DBs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
+</p>
 
-### 🔧 Dev & Cloud
-`Docker` · `Postman` · `Git` · `AWS` · `Azure` · `MongoDB` · `Netlify` · `Render`
+#### ☁️ Cloud / DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,postman,netlify,vercel&theme=dark" />
+</p>
+
+#### 🎨 Design Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,blender,framer&theme=dark" />
+</p>
 
 ---
 
